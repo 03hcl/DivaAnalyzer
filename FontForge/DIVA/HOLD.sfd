@@ -1,0 +1,146 @@
+SplineFontDB: 3.0
+FontName: Untitled1
+FullName: Untitled1
+FamilyName: Untitled1
+Weight: Regular
+Copyright: Copyright (c) 2015, 拓生
+UComments: "2015-11-23: Created with FontForge (http://fontforge.org)"
+Version: 001.000
+ItalicAngle: 0
+UnderlinePosition: -100
+UnderlineWidth: 50
+Ascent: 800
+Descent: 200
+InvalidEm: 0
+LayerCount: 2
+Layer: 0 0 "+gMyXYgAA" 1
+Layer: 1 0 "+Uk2XYgAA" 0
+XUID: [1021 956 731621877 20077]
+OS2Version: 0
+OS2_WeightWidthSlopeOnly: 0
+OS2_UseTypoMetrics: 1
+CreationTime: 1448257564
+ModificationTime: 1448264718
+OS2TypoAscent: 0
+OS2TypoAOffset: 1
+OS2TypoDescent: 0
+OS2TypoDOffset: 1
+OS2TypoLinegap: 0
+OS2WinAscent: 0
+OS2WinAOffset: 1
+OS2WinDescent: 0
+OS2WinDOffset: 1
+HheadAscent: 0
+HheadAOffset: 1
+HheadDescent: 0
+HheadDOffset: 1
+OS2Vendor: 'PfEd'
+DEI: 91125
+Encoding: ISO8859-1
+UnicodeInterp: none
+NameList: AGL For New Fonts
+DisplaySize: -48
+AntiAlias: 1
+FitToEm: 0
+WinInfo: 64 16 4
+AnchorClass2: "" "" 
+BeginChars: 256 4
+
+StartChar: H
+Encoding: 72 72 0
+Width: 400
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Fore
+SplineSet
+10 0 m 1
+ 10 800 l 1
+ 160 800 l 1
+ 160 0 l 1
+ 10 0 l 1
+240 0 m 1
+ 240 800 l 1
+ 390 800 l 1
+ 390 0 l 1
+ 240 0 l 1
+160 350 m 1
+ 160 450 l 1
+ 240 450 l 1
+ 240 350 l 1
+ 160 350 l 1
+EndSplineSet
+EndChar
+
+StartChar: O
+Encoding: 79 79 1
+Width: 400
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Fore
+SplineSet
+10 525 m 2
+ 10 800 160 800 200 800 c 0
+ 240 800 390 800 390 525 c 2
+ 390 275 l 2
+ 390 0 240 0 200 0 c 0
+ 160 0 10 0 10 275 c 2
+ 10 525 l 2
+160 570 m 1
+ 160 230 l 1
+ 160 230 160 150 200 150 c 0
+ 240 150 240 230 240 230 c 1
+ 240 570 l 1
+ 240 570 240 650 200 650 c 0
+ 160 650 160 570 160 570 c 1
+EndSplineSet
+EndChar
+
+StartChar: L
+Encoding: 76 76 2
+Width: 400
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Fore
+SplineSet
+10 0 m 1
+ 10 800 l 1
+ 160 800 l 1
+ 160 0 l 1
+ 10 0 l 1
+160 0 m 1
+ 160 100 l 1
+ 390 100 l 1
+ 390 0 l 1
+ 160 0 l 1
+EndSplineSet
+EndChar
+
+StartChar: D
+Encoding: 68 68 3
+Width: 400
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Fore
+SplineSet
+10 800 m 1
+ 160 800 l 2
+ 200 800 390 800 390 525 c 2
+ 390 275 l 2
+ 390 0 200 0 160 0 c 2
+ 10 0 l 1
+ 10 800 l 1
+160 150 m 1
+ 160 150 l 1
+ 160 150 240 150 240 270 c 2
+ 240 530 l 2
+ 240 650 160 650 160 650 c 1
+ 160 650 l 1
+ 160 150 l 1
+EndSplineSet
+EndChar
+EndChars
+EndSplineFont
